@@ -202,6 +202,15 @@ const _CONSTANTS: Constants = {
       description: 'Collectibles game with FREE daily NFTs',
       backgroundColor: '#c7b299'
     },
+    Cheetez: {
+      name: 'Cheetez',
+      address: ['KT1LRLiZni9vRBUf78bzkKcAxTdchY1k5WjE'],
+      thumbnailUrl: '../../../assets/img/alias/cheetez.png',
+      link: 'https://www.cheetez.net/',
+      shouldDisplayLink: DisplayLinkOption.All,
+      category: ['PFP', 'collectibles'],
+      description: '2,222 Collectible , Unique Cheetez are now rule the Earth.',
+    },
     TzColors: {
       name: 'Tz Colors',
       address: ['KT1FyaDqiMQWg7Exo7VUiXAgZbd2kCzo3d4s'],
